@@ -1,0 +1,39 @@
+p{
+  font-size: 15px;
+  font-family: Outfit, sans-serif;
+  color: grey;
+  color: hsl(220, 15%, 55%);
+  margin: 10px;
+  font-weight: 400;
+}
+.middle{
+  background-color: gray;
+  background-color: hsl(212, 45%, 89%);
+  margin-top: 0;
+  height: 1000px;
+}
+.inside{
+  background-color: white;
+  background-color: hsl(0, 0%, 100%);
+  margin: 0 auto;
+  text-align: center;
+  width: 20%;
+  height: 45%;
+  position: relative;
+  top: 100px;
+  border-radius: 6%;
+}
+.image{
+  width: 90%;
+  height: 60%;
+  border-radius: 6%;
+  margin: 10px 10px 20px 10px;
+}
+.baslık{
+  color: blue;
+  color: hsl(218, 44%, 22%);
+  font-family: Outfit, sans-serif;
+  font-size: 18px;
+  margin: 15px;
+  font-weight: 700;
+}
